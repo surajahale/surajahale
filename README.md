@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @surajahale
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+MCA graduate | Java & Web Developer
+Passionate about building Java-based applications and web projects using HTML, CSS, JavaScript, and SQL. Strong in OOP, problem-solving, and real-world project development. Actively learning and improving every day.
 
 <!---
 surajahale/surajahale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
